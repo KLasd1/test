@@ -1,0 +1,8 @@
+flask
+flask-restful
+sqlalchemy
+wtforms
+flask-wtf
+wtforms
+werkzeug
+flask-login
